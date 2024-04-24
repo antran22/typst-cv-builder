@@ -1,0 +1,18 @@
+version: '3'
+
+vars:
+  DATE: 
+    sh: "date \"+%d-%m-%Y\""
+
+tasks:
+  build-resume:
+    cmds:
+      - mkdir -p ./output
+      - echo "Building Resumé {{.Name}}"
+      - typst c --root . lib/resume-template.typ ./output/{{.Name}}-{{.DATE}}.pdf --input config=/resumes/{{.Name}}.yaml
+  
+  watch-resume:
+    cmds:
+      - mkdir -p ./output
+      - echo "Watching Resumé {{.Name}}"
+      - typst w --root . lib/resume-template.typ ./output/{{.Name}}-DEV.pdf  --input config=/resumes/{{.Name}}.yaml  

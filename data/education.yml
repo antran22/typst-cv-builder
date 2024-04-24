@@ -1,0 +1,20 @@
+- id: school1
+  institution: School 1
+  studyType: B.Sc
+  area: Computer Science
+  score: 4/4 GPA
+  date: Dec 2019 - Dec 2023
+  summary: >-
+    Magna cum laude graduate.
+  url: "https://school1.example.org/"
+
+
+- id: school2
+  institution: School 2
+  studyType: B.Sc
+  area: Computer Science
+  score: 4/4 GPA
+  date: Dec 2016 - Dec 2019
+  summary: >-
+    Magna cum laude graduate.
+  url: "https://school2.example.org/"

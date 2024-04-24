@@ -1,0 +1,37 @@
+lang: "en"
+
+positions:
+  - Software Engineer
+
+layout:
+  section_spacing: 24 
+
+
+about: >-
+  Neque sit molestiae qui unde minus voluptatum impedit quia cumque rerum provident. Ut quod quis provident. 
+  Ut possimus ab non voluptas eos et est nihil eos et fugiat dolor voluptate temporibus. 
+  Doloribus excepturi sit omnis fugit suscipit sequi doloribus placeat rerum. Doloremque iure amet iure. 
+  Est quisquam quis iure molestias est et dolorem quis aperiam eum vel.
+
+experiences: all
+
+projects: all
+
+tech_skills: all
+
+soft_skills: all
+
+interests: all
+
+certifications: all
+
+educations: all
+
+sections:
+  - about
+  - experiences
+  - projects
+  - tech-skills
+  - soft-skills
+  - interests
+  - certifications

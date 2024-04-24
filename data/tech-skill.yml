@@ -1,0 +1,28 @@
+- id: devtools
+  name: Development Tool
+  description: Assorted softwares/skills needed during software development
+  keywords:
+    - Unix/Linux OS
+    - Git
+    - Vim
+    - Various Debugger/Profiler
+
+- id: programming-languages
+  name: Programming polyglot
+  description: >-
+    Knowledge of multiple programming languages, paradigm and philosophy and
+    their use cases.
+  keywords:
+    - Go
+    - Python
+    - Haskell
+    - Javascript
+    - Java/Kotlin
+    - C/C++
+
+
+- id: typst
+  name: Typst
+  description: Typst is a markup based typesetting system, similar to Latex but much simpler
+  keywords:
+    - Typesetting

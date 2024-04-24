@@ -1,0 +1,39 @@
+- id: project1
+  name: Project 1
+  description: with NDA client
+  date: Dec 2023 - Apr 2024
+  summary: >-
+    This is a CommonMark text field
+
+
+    **A list**
+      - Ut nulla et voluptatem officiis quia id harum eius voluptas non delectus eum quidem necessitatibus. 
+      - Est sit explicabo aut dignissimos veniam voluptatibus perferendis excepturi ut. 
+
+
+  keywords:
+    - Lorem
+    - Ipsum
+
+- id: project2
+  name: Project 2
+  description: with NDA client
+  date: Dec 2022 - March 2023
+  summary: >-
+    This is a CommonMark text field
+
+
+    **A list**
+      - Ut nulla et voluptatem officiis quia id harum eius voluptas non delectus eum quidem necessitatibus. 
+      - Est sit explicabo aut dignissimos veniam voluptatibus perferendis excepturi ut. 
+
+
+  keywords:
+    - Lorem
+    - Ipsum
+
+- id: project2-other
+  inherit: project2
+  summary: >-
+    This project entry will inherit info from project2, and you can optionally override any other field.
+    Useful if you want to showcase different aspects of the same project, on different CVs.

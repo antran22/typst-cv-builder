@@ -1,0 +1,18 @@
+- id: foss 
+  name: Free Open Source Software (FOSS)
+  description: >-
+    This is a CommonMark Markdown text field
+    Occasional contributor to open-source projects. Aspire to be an active
+    member of the open-source community
+  keywords:
+    - Open source contribution
+    - Free Software Movement
+- id: tech-social
+  visible: true
+  name: Social Impact of Technology
+  description: >-
+    I am deeply fascinated/concerned with how society interact with technological advances. 
+    Data privacy, software engineering ethics are main area of interest for me.
+  keywords:
+    - Data privacy
+    - Technology and Legislation

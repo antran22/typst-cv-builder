@@ -1,0 +1,16 @@
+- id: soft-skill-1
+  name: Soft Skill 1
+  description: >-
+    This is a CommonMark Markdown text field
+  keywords:
+    - Lorem
+    - Ipsum
+
+
+- id: soft-skill-2
+  name: Soft Skill 2
+  description: >-
+    This is a CommonMark Markdown text field
+  keywords:
+    - Lorem
+    - Ipsum

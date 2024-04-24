@@ -1,0 +1,45 @@
+first_name: "John"
+last_name: "Doe"
+email: "john.doe@example.com"
+phone: "+1 234 567 890"
+address: "The Mars"
+url:
+  href: "https://example.org"
+
+
+profiles:
+  - id: linkedin
+    visible: true
+    network: LinkedIn
+    username: john.doe
+    icon: linkedin
+    url:
+      href: "https://www.linkedin.com/in/john.doe/"
+
+  - id: github
+    visible: true
+    network: Github
+    username: john.doe
+    icon: github
+    url:
+      href: "https://github.com/john.doe"
+
+  - id: hackernews
+    visible: true
+    network: HackerNews
+    username: john.doe
+    icon: ycombinator
+    url:
+      href: "https://news.ycombinator.com/user?id=john.doe"
+
+languages:
+  - id: vietnamese
+    name: Vietnamese
+    description: Native speaker
+  - id: english
+    visible: true
+    name: English
+    description: Bilingual Proficiency
+  - id: french
+    name: French
+    description: A1 Level. Self-taught.

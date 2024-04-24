@@ -1,0 +1,32 @@
+- id: experience1
+  company: Company1
+  position: Software Developer
+  location: The Mars
+  date: Mar 2022 - Feb 2024
+  summary: >-
+    This is a CommonMark Markdown text field.
+
+
+    To render a new line, put in two new lines. Indent to make a list:
+      - Ut nulla et voluptatem officiis quia id harum eius voluptas non delectus eum quidem necessitatibus.
+      - Est sit explicabo aut dignissimos veniam voluptatibus perferendis excepturi ut.
+
+  url: 'https://example.org'
+
+
+- id: experience2
+  company: Company2
+  position: Software Developer
+  location: The Mars
+  date: Mar 2022 - Feb 2024
+  summary: >-
+    This is a CommonMark Markdown text field.
+
+
+    To render a new line, put in two new lines. Indent to make a list:
+      - Ut nulla et voluptatem officiis quia id harum eius voluptas non delectus eum quidem necessitatibus.
+      - Est sit explicabo aut dignissimos veniam voluptatibus perferendis excepturi ut.
+
+  url: 'https://example.org'
+
+
